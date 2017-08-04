@@ -1,0 +1,21 @@
+10 10
+827 223 679 702 168 924 960 366 698 931 
+1 2
+2 3
+3 4
+4 5
+5 6
+6 7
+7 8
+8 9
+9 10
+Query 6 260
+Divide 4 9 271
+Multiply 2 156
+Query 8 253
+Query 9 870
+Multiply 7 812
+Multiply 1 76
+Query 8 754
+Multiply 9 541
+Multiply 1 230
